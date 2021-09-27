@@ -1,0 +1,10 @@
+[Unit]
+Description=temperatur
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /home/pi/temperatur.py
+
+[Install]
+WantedBy=multi-user.target
+
