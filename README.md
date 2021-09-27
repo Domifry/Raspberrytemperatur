@@ -22,7 +22,7 @@ Dieses Script stellt sich, dass sich alle 15 Minuten das Script startet.
 
 # index.php
 * Lege die Datei auf einem Webspace und gib die SQL Daten ein
-
+* Das machst du an zwei Stellen jeweils bei mysqli_connect
 <img src="https://agile-unternehmen.de/stuff/alarmtemperatur.png" width="600px">
 
 # Lüfter einbauen
