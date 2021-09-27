@@ -1,4 +1,4 @@
-# Raspberrytemperatur
+# Raspberry Temperatur regelmässig messen und einsehen per SQL Tabelle
 Temperaturüberwachung Raspberry PI 3
 
 Dieses Script liest alle Stunde die aktuelle Temperatur des Raspberry PI aus und gibt diese auf einer Website auf. Mein Raspberry wurde immer wieder heiß. Unten findet sich auch eine Anleitung wie man einen Lüfter einbauen kann.  
