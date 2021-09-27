@@ -31,4 +31,4 @@ Ich mache recht viel am Raspberry und will, dass er kühl bleibt. Dazu musst du 
 
 Die Temperatur ist nun unter 40 Grad. Mein Tipp: Es reicht, wenn du den Lüfter nur mit 3,3V versorgst. Er ist dann auch leiser. 
 
-<img src="https://agile-unternehmen.de/alarm-img/raspberry-pi-kuehlung-luefter.png" width="300px">
+<img src="https://agile-unternehmen.de/alarm-img/raspberry-pi-kuehlung-luefter.png" width="600px">
